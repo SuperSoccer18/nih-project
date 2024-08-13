@@ -1,2 +1,2 @@
 # nih-project
-parameter estimation neural network for myelin water fraction estimation in MRI relaxometry
+parameter estimation neural networks for myelin water fraction estimation in MRI relaxometry
